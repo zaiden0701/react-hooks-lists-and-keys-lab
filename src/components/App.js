@@ -6,6 +6,9 @@ import ProjectList from "./ProjectList";
 import user from "../data/user";
 
 function App() {
+  // const projectCards = projects.map((projectObj) =>{
+  //   return 
+  // })
   return (
     <div>
       <NavBar />
